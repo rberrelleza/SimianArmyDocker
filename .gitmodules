@@ -1,0 +1,3 @@
+[submodule "SimianArmy"]
+	path = SimianArmy
+	url = https://github.com/Netflix/SimianArmy
